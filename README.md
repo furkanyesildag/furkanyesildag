@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:A78BFA&height=200&section=header&text=Furkan%20Ye%C5%9Filda%C4%9F&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Systems%20Engineer%20%C2%B7%20Agentic%20Infrastructure%20%26%20Autonomous%20Systems&descSize=18&descAlignY=60&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:A78BFA&height=200&section=header&text=Furkan%20Ye%C5%9Filda%C4%9F&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Systems%20Engineer%20%C2%B7%20Agentic%20Infrastructure%20and%20Autonomous%20Systems&descSize=17&descAlignY=62&descAlign=50" />
 
 <div align="center">
 
