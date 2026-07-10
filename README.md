@@ -13,7 +13,6 @@
 [![Email](https://img.shields.io/badge/Email-Reach%20out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furkanyesildag08@gmail.com)
 <br/>
 ![Profile Views](https://komarev.com/ghpvc/?username=furkanyesildag&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS)
-[![Followers](https://img.shields.io/github/followers/furkanyesildag?style=for-the-badge&color=8B5CF6&labelColor=1a1a2e&logo=github)](https://github.com/furkanyesildag)
 
 </div>
 
@@ -157,18 +156,18 @@ On-prem **LibreChat** assistant — mem0 memory, RAPTOR / BGE-M3 / Qdrant RAG, M
 
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
 
-## ⟡ &nbsp;By the Numbers
+## ⟡ &nbsp;Momentum
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=furkanyesildag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=A78BFA&icon_color=8B5CF6" />
-<img height="165" src="https://streak-stats.demolab.com?user=furkanyesildag&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" />
+[![Followers](https://img.shields.io/github/followers/furkanyesildag?style=for-the-badge&color=8B5CF6&labelColor=1a1a2e&logo=github&label=FOLLOWERS)](https://github.com/furkanyesildag)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/furkanyesildag&query=public_repos&style=for-the-badge&color=8B5CF6&labelColor=1a1a2e&label=PUBLIC%20REPOS&logo=github)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanyesildag&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=A78BFA" />
+<br/>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=furkanyesildag&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7)
+<img height="180" src="https://streak-stats.demolab.com?user=furkanyesildag&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=8B5CF6" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=furkanyesildag&theme=tokyo-night&hide_border=true&bg_color=00000000&color=A78BFA&line=8B5CF6&point=ffffff&area=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=furkanyesildag&theme=tokyo-night&hide_border=true&bg_color=00000000&color=A78BFA&line=8B5CF6&point=ffffff&area=true&hide_title=true" />
 
 </div>
 
